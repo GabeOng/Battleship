@@ -1,4 +1,4 @@
-# warthog276
+# Battle ship
 Repository for Warthog group's CMPT276 project
 
 ## Setup
